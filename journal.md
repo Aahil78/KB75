@@ -1,8 +1,8 @@
 ---
-Title: "KB75"
-Author: "Aahil"
-Description: "A 75% mechanical hotswap keyboard with cool stuff"
-Created At: "2025-06-12"
+title: "KB75"
+author: "Aahil"
+description: "A 75% mechanical hotswap keyboard with cool stuff"
+created_at: "2025-06-12"
 ---
 
 # June 12th: The beginning of a new project......
