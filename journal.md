@@ -25,5 +25,9 @@ I decided:
     - Compact board (hopefully)
 
  And that's all that I did today; KLE, Planning, A little bit of the schematic.
- 
+
+![keyboard-layout](https://github.com/user-attachments/assets/d0c03b79-9d64-4abb-84ac-26976ad79f7c)
+![image](https://github.com/user-attachments/assets/481afb8f-1bab-49a4-8e27-c78268a186cd)
+![image](https://github.com/user-attachments/assets/11656e81-6ee1-47f5-9c43-f3877cdc8a9e)
+
  **Total time spent: 3h**
