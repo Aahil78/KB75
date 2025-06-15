@@ -31,3 +31,13 @@ I decided:
 ![image](https://github.com/user-attachments/assets/11656e81-6ee1-47f5-9c43-f3877cdc8a9e)
 
  **Total time spent: 3h**
+
+---
+
+# June 15th: The Matrix
+
+This is my 2nd Day of working on this project. I made the matrix and decided to mae everything in one sheet with boxes and not seperate sheets, this is bc like I will need to go through different sheets just to see what nets go to what and it'll be a little more time taking. Anyways, I worked on the schematic and added all the keys, I still need to wire it all up but I decided to log rn so I dont forget, I will still work rn tho, btw I started at 1AM lol so yeah I haven't slept :(.
+![image](https://github.com/user-attachments/assets/317da8b9-bf26-45cf-ba87-7c9fb4c9cfa3)
+![image](https://github.com/user-attachments/assets/157af02d-fad2-474a-9e68-1906e1ec2fc9)
+
+**Total time spent: 4.5ish Hours**
