@@ -60,3 +60,5 @@ Now that I was done with my schematic, I finally decided to make the PCB, so I u
 ![image](https://github.com/user-attachments/assets/d7729aa8-ae92-4e73-9bd9-f6f40d68b696)
 ![image](https://github.com/user-attachments/assets/8e03e949-35ec-4323-b7ac-d58c50bf8804)
 ![image](https://github.com/user-attachments/assets/94c73f89-794d-4c82-af51-2190c69ce6a7)
+
+**Total time spent: 2-3hrs**
