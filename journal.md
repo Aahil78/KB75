@@ -62,3 +62,15 @@ Now that I was done with my schematic, I finally decided to make the PCB, so I u
 ![image](https://github.com/user-attachments/assets/94c73f89-794d-4c82-af51-2190c69ce6a7)
 
 **Total time spent: 2-3hrs**
+
+# June 15th - Log 4: The end of the PCB
+
+Another update: I'm finally done with my PCB!!! I dont even know how long it took me to route everything, but its finally done!!!!!! Now I need to make the plate and bottom which I'm thinking of doing using another 2 PCBs, bc like moddeling will take too long. But, if I have time and all then I might just make a 3D Printed case for it too so if anyone wants to make it they won't need to pay for 3 PCBs, I don't have a printer which is another reason why im thinking of making a PCB and I can maybe do some silkscreen art on the PCB too. Next update will hopefully be for when I'm done with the other 2 PCBs. PS: I dont know how muc time I worked for but I think it's well over 5-5.5hrs in total from since the last updates so 5.25hrs is the avg ig.
+
+![image](https://github.com/user-attachments/assets/7d586e3a-1665-4772-ba09-a3e87a266d44)
+![image](https://github.com/user-attachments/assets/c59140be-ec14-4dbe-b93b-ea4e12e7fb48)
+![image](https://github.com/user-attachments/assets/ad84f048-93e9-40df-bd6f-d3790d7a145c)
+
+Also I didn't run DRC yet so I gotta do that too.
+
+**Total time spent: 5.25hrs**
