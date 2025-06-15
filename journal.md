@@ -40,7 +40,7 @@ This is my 2nd Day of working on this project. I made the matrix and decided to 
 
 **Total time spent: 4.5ish hours**
 
-# June 18th - Log 2: Next Step - The PCB
+# June 15th - Log 2: Next Step - The PCB
 
 I was finally able to finish my entire schematic, I added the RGB LEDs, Capacitors, and I thought of adding Type-C but the Pi Pico dosen't have any USB pins proken out, not that I know of. So I finished the wiring of the matrix, capacitors, and LEDs. So now I'll start the PCB and update then. Oh and I also added a rotary encoder w/ switch.
 ![image](https://github.com/user-attachments/assets/d4771dae-4cad-40f2-95c3-29abeb6d920c)
@@ -49,3 +49,11 @@ I was finally able to finish my entire schematic, I added the RGB LEDs, Capacito
 ![image](https://github.com/user-attachments/assets/babf7ec4-75be-433e-854f-468cfa62ccb3)
 
 **Total time spent: 2.5hrs**
+
+# June 15th - Log 3: The PCB Layout
+
+Now that I was done with my schematic, I finally decided to make the PCB, so I used kbplacer - a KiCad plugin that converts ur KLE JSON or Ergogen layout and places all the diodes, switches, and LEDs automatically according to ur layout. Once I did that, I decided where the Pi Pico should go, there was no space in the middle or anywhere so I added it on the right side, but this forced me to make the board larger, leaving some extra space on the bottom. So I added in a 0.91" OLED vertically, this minimized the empty sapce. I still haven't routed the board yet but it took me a long time to come up with multiple itterations, deciding where the Pico should go, doing multiple attempts on the board outline, and other stuff. I also rearranged the schematic a bit, I also made use of the ADC pins for i2c of the OLED and for the rotary encoders switch pin 1.
+
+![image](https://github.com/user-attachments/assets/3510f678-3912-42c6-b52a-2edccb3f8bc9)
+![image](https://github.com/user-attachments/assets/650606c4-6272-4dba-aceb-9ccf0a23be55)
+![image](https://github.com/user-attachments/assets/c1e5242a-cb5e-462e-9bc5-870e9f5aa79a)
