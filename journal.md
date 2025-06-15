@@ -30,9 +30,7 @@ I decided:
 ![image](https://github.com/user-attachments/assets/481afb8f-1bab-49a4-8e27-c78268a186cd)
 ![image](https://github.com/user-attachments/assets/11656e81-6ee1-47f5-9c43-f3877cdc8a9e)
 
- **Total time spent: 3h**
-
----
+ **Total time spent: 3hrs**
 
 # June 15th: The Matrix
 
@@ -40,4 +38,14 @@ This is my 2nd Day of working on this project. I made the matrix and decided to 
 ![image](https://github.com/user-attachments/assets/317da8b9-bf26-45cf-ba87-7c9fb4c9cfa3)
 ![image](https://github.com/user-attachments/assets/157af02d-fad2-474a-9e68-1906e1ec2fc9)
 
-**Total time spent: 4.5ish Hours**
+**Total time spent: 4.5ish hours**
+
+# June 18th - Log 2: Next Step - The PCB
+
+I was finally able to finish my entire schematic, I added the RGB LEDs, Capacitors, and I thought of adding Type-C but the Pi Pico dosen't have any USB pins proken out, not that I know of. So I finished the wiring of the matrix, capacitors, and LEDs. So now I'll start the PCB and update then. Oh and I also added a rotary encoder w/ switch.
+![image](https://github.com/user-attachments/assets/d4771dae-4cad-40f2-95c3-29abeb6d920c)
+![image](https://github.com/user-attachments/assets/389ec836-0589-4872-bc26-2cf47997ab9f)
+![image](https://github.com/user-attachments/assets/1e47e696-ea9e-4dd3-85bd-d255894640d9)
+![image](https://github.com/user-attachments/assets/babf7ec4-75be-433e-854f-468cfa62ccb3)
+
+**Total time spent: 2.5hrs**
