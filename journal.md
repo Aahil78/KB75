@@ -57,3 +57,6 @@ Now that I was done with my schematic, I finally decided to make the PCB, so I u
 ![image](https://github.com/user-attachments/assets/3510f678-3912-42c6-b52a-2edccb3f8bc9)
 ![image](https://github.com/user-attachments/assets/650606c4-6272-4dba-aceb-9ccf0a23be55)
 ![image](https://github.com/user-attachments/assets/c1e5242a-cb5e-462e-9bc5-870e9f5aa79a)
+![image](https://github.com/user-attachments/assets/d7729aa8-ae92-4e73-9bd9-f6f40d68b696)
+![image](https://github.com/user-attachments/assets/8e03e949-35ec-4323-b7ac-d58c50bf8804)
+![image](https://github.com/user-attachments/assets/94c73f89-794d-4c82-af51-2190c69ce6a7)
