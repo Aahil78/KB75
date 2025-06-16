@@ -74,3 +74,11 @@ Another update: I'm finally done with my PCB!!! I dont even know how long it too
 Also I didn't run DRC yet so I gotta do that too.
 
 **Total time spent: 5.25hrs**
+
+# June 16th: Completion of the plate!
+
+Hi! I'm finally done with my PCB-Plate, I was thinking of making a 3D Printable one but I'm too burned out from making this pcb based plate. Anyways, I'm finally done with it but I still need to make cutouts for the stabs and need to add stabilizers in the PCB too, otherwise Im done. Took me a long time to make this.
+![image](https://github.com/user-attachments/assets/02aa2c8f-b81e-4b47-a8e7-89b6662e8c99)
+I'm gonna add some silkscreen later, like imma add in multi color silkscreen so for that I'll have to take this to EasyEDA once I'm done. The next update will be me done with the stabs and stuff hopefully.
+
+**Total time spent: 4-5hrs**
