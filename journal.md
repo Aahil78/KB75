@@ -92,3 +92,12 @@ AGHHHHHHH. I had to make my entire PCB again, because I had too many errors in t
 ![image](https://github.com/user-attachments/assets/1fb77c14-bc63-4aa7-801a-250dd2291406)
 
 **Total time spent: 4.5hrs**
+
+# June 17th (Midnight of June 16th): Routing, again
+New update! I was finally able to precisely align all the decoupling caps, now I need to route all of this sadly. I def deserve at least 8 points for all my work lol.
+
+![image](https://github.com/user-attachments/assets/2159edcf-8726-45b6-8711-4ad5f35f6a3d)
+![image](https://github.com/user-attachments/assets/ce26cdc0-cdd9-4a19-9dae-91bac727bbfc)
+![image](https://github.com/user-attachments/assets/acc3500d-b110-406b-a630-c32dd51aaa80)
+
+PS: I'm not using blue switches, and uhhh I'm running out of ways to start a log, so I think there are gonna be bad intros bc this is getting awkward.
