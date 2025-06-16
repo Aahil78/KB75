@@ -84,3 +84,11 @@ Hi! I'm finally done with my PCB-Plate, I was thinking of making a 3D Printable 
 I'm gonna add some silkscreen later, like imma add in multi color silkscreen so for that I'll have to take this to EasyEDA once I'm done. The next update will be me done with the stabs and stuff hopefully.
 
 **Total time spent: 4-5hrs**
+
+# June 16th - Log 2: Square one
+AGHHHHHHH. I had to make my entire PCB again, because I had too many errors in that one, and I had to addin stabs but the wires were underneath the holes bc I added them AFTER routing everything, so I deleted the PCB and used [this tool](https://keyboard-tools.xyz/) to make a new PCB, I then took my previous designed plate and placed it over the new PCB so I can make the same board outline again, I also added my OLED, Pi Pico, and encoder from the plate alignment. I also added in my LEDs one by one, now I need to add in the decoupling capacitors one by one aghhhhhh. This is gonna be hard........
+
+![image](https://github.com/user-attachments/assets/2ce033c9-2cc6-443a-8da8-a641fbb2a5f3)
+![image](https://github.com/user-attachments/assets/1fb77c14-bc63-4aa7-801a-250dd2291406)
+
+**Total time spent: 4.5hrs**
