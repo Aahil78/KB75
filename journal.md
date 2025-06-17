@@ -101,6 +101,7 @@ New update! I was finally able to precisely align all the decoupling caps, now I
 ![image](https://github.com/user-attachments/assets/acc3500d-b110-406b-a630-c32dd51aaa80)
 
 PS: I'm not using blue switches, and uhhh I'm running out of ways to start a log, so I think there are gonna be bad intros bc this is getting awkward.
+
 **Total time spent: 3hrs**
 
 # June 17th - Log 2: Rows 
