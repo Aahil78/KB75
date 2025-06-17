@@ -101,3 +101,13 @@ New update! I was finally able to precisely align all the decoupling caps, now I
 ![image](https://github.com/user-attachments/assets/acc3500d-b110-406b-a630-c32dd51aaa80)
 
 PS: I'm not using blue switches, and uhhh I'm running out of ways to start a log, so I think there are gonna be bad intros bc this is getting awkward.
+**Total time spent: 3hrs**
+
+# June 17th - Log 2: Rows 
+Hi! I have finally routed all the rows and the rotary encoder on my PCB, and most of the diodes are routed to the switch too. Now I need to route the columns, capacitors, and LEDs. Should't be hard right.......... right?
+
+![image](https://github.com/user-attachments/assets/884a1eeb-ce2d-41a9-84e4-e8ff088eae3c)
+![image](https://github.com/user-attachments/assets/8d115abf-2b97-4554-9550-db3f6e57b4e7)
+![image](https://github.com/user-attachments/assets/ce5003a6-a69c-4930-95f6-8f06be5274a1)
+
+**Total time spent: 1.75hrs**
