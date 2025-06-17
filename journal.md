@@ -112,3 +112,11 @@ Hi! I have finally routed all the rows and the rotary encoder on my PCB, and mos
 ![image](https://github.com/user-attachments/assets/ce5003a6-a69c-4930-95f6-8f06be5274a1)
 
 **Total time spent: 1.75hrs**
+
+# June 17th - Log 3: Colums
+Hi, I finally routed all the columns and got them all connected to the Pi Pico, now I need to route the capacitors, LEDs and the OLED, whihc is........ 423 unrouted traces :((
+
+![image](https://github.com/user-attachments/assets/75a8ccd0-d9b0-41e6-9e0f-870e5ac74586)
+![image](https://github.com/user-attachments/assets/14fd10e4-b60a-4c65-a661-07ace25b14e4)
+
+**Total time spent: 2hrs**
