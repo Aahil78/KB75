@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/parts/Keebio/Symbols/keebio.lib")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "D:/KiCad Projects/Keyer/MX_SK6812MINI-E/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "tahutech")(type "Legacy")(uri "D:/KiCad Projects/Keyer/tahutech.pretty-main/symbols/tahutech.lib")(options "")(descr ""))
+  (lib (name "OLED")(type "KiCad")(uri "D:/KiCad Projects/HackPad v3/parts/Display/OLED.kicad_sym")(options "")(descr ""))
+)
