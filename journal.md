@@ -140,4 +140,8 @@ FINALLYYYYYY!!!!!! I'm done with the PCB!! I decided to make a proper enclosure 
 ![image](https://github.com/user-attachments/assets/e3f7c920-b404-45fd-a56d-0e668be968da)
 ![image](https://github.com/user-attachments/assets/7582d19c-886e-40bc-b55a-7a7146624f7c)
 
+EDIT: I forgot to refill the zone, so once I did that there were 2 small GND-GND traces that I had to route, just did that and will be adding gerber and kicad project files.
+
+![image](https://github.com/user-attachments/assets/af3909c1-66ea-42b1-8072-f6a9b8ef377d)
+
 **Total time spent: 4hrs**
