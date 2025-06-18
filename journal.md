@@ -114,9 +114,22 @@ Hi! I have finally routed all the rows and the rotary encoder on my PCB, and mos
 **Total time spent: 1.75hrs**
 
 # June 17th - Log 3: Colums
-Hi, I finally routed all the columns and got them all connected to the Pi Pico, now I need to route the capacitors, LEDs and the OLED, whihc is........ 423 unrouted traces :((
+Hi, I finally routed all the columns and got them all connected to the Pi Pico, now I need to route the capacitors, LEDs and the OLED, which is........ 423 unrouted traces :((
 
 ![image](https://github.com/user-attachments/assets/75a8ccd0-d9b0-41e6-9e0f-870e5ac74586)
 ![image](https://github.com/user-attachments/assets/14fd10e4-b60a-4c65-a661-07ace25b14e4)
 
 **Total time spent: 2hrs**
+
+# June 18th: Recovery
+New log! So as the title suggests my KiCad PCB corrupted :((, luckily KiCad makes backups, but...... the last 2 of those backups were also corrupted. But the 3rd one worked!! Some things weren't there so I added those again and routed all the +5V and GND connections, like I added a copper fill but some sections had to get connected with lots of vias and traces, but I got through it and now there are only 81 unrouted connections, considering that I have 82 Switches which means 82 LEDs, and I connected DIN of LED1, leaving us with 81 unrouted which means all thats left is DIN and DOUT connections. I also forgot connecting the RGB Data Pin and adding a logic level shifter so I added the BSS138 MOSFET and noticed I was out of pins on my pi, so I took my Encoders SW1 and SW2 and connected tjose to my matrix with a diode. Then I connected my RGB Pin to ADC0 with SDA and SCL on ADC1 and 2. So I used up all the Pi Pico's pins, luckily we didn't need to add a I/O Expander.
+
+![image](https://github.com/user-attachments/assets/d4b2162e-cb88-439a-b6d7-01eefad96a6b)
+![image](https://github.com/user-attachments/assets/9c878449-6b19-4f7d-a4dc-abaa01fb8ffc)
+![image](https://github.com/user-attachments/assets/fa278519-8e1f-49d8-b660-cd7268532c58)
+![image](https://github.com/user-attachments/assets/66d609c5-6dde-4f33-9cd6-899c85c9093d)
+![image](https://github.com/user-attachments/assets/b8d59a64-a2ed-4937-b3d8-a501f9cddbf7)
+![image](https://github.com/user-attachments/assets/cf25f9ec-b59e-4d46-bc97-7559898c7fcf)
+![image](https://github.com/user-attachments/assets/7e461fa5-6ddc-4485-a9fc-273a2c9d582b)
+
+**Total time spent: 5.5hrs**
