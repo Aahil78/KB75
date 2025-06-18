@@ -133,3 +133,11 @@ New log! So as the title suggests my KiCad PCB corrupted :((, luckily KiCad make
 ![image](https://github.com/user-attachments/assets/7e461fa5-6ddc-4485-a9fc-273a2c9d582b)
 
 **Total time spent: 5.5hrs**
+
+# June 18th - Log 2: PCB Completon!!
+FINALLYYYYYY!!!!!! I'm done with the PCB!! I decided to make a proper enclosure and plate in F360 and not a PCB (FR4) Based one, this is bc if I made one using a PCB it would only give me the plate and back but nothing for the sides, so I'm now gonna be making one in fusion. Rlly excited for this to be done and for making it irl! I rlly need a keyboard bc I'm designing everything on a HP Elitebook 840 G4 w/o a keyboard or mouse.
+
+![image](https://github.com/user-attachments/assets/e3f7c920-b404-45fd-a56d-0e668be968da)
+![image](https://github.com/user-attachments/assets/7582d19c-886e-40bc-b55a-7a7146624f7c)
+
+**Total time spent: 4hrs**
