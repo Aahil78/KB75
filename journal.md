@@ -167,4 +167,6 @@ So now I am FINALLY DONE!!!!!!!! I added cutouts for the stabilizer's wire (the 
 
 Update: Ahh I forgot I need to write the firmware b4 submitting, ig I'll do that and log.
 
+Update 2: In my first log I said i might use a orpheus pico, but I just remembered that isn't allowed so I'll just use a raspberry pi pico or a clone with type-c
+
 **Total Time Spent: 1 - 1.5hrs**
