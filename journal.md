@@ -170,3 +170,10 @@ Update: Ahh I forgot I need to write the firmware b4 submitting, ig I'll do that
 Update 2: In my first log I said i might use a orpheus pico, but I just remembered that isn't allowed so I'll just use a raspberry pi pico or a clone with type-c
 
 **Total Time Spent: 1 - 1.5hrs**
+
+# June 19th - Log 3: Done with the firmware!
+Finally! I'm done with the firmware!!!!!!! I used QMK bc once I get my keyboard I'll setup KMK via POG, a open-source app made for easy setup for KMK based keyboards, especially RP2040 based ones, it automatically installs KMK, makes the keymaps, allows you to config layers, and more! So I'm done with everything I just need to format the README and add in a BOM. Btw it's my first time using QMK and the docs were too long and over my understanding so I took a little help from copilot, and this time I dont mean "help", I mean just help bc it only wrote the template code and I modified it all like my keymaps, rules.mk, config, etc.
+
+(I don't know what to upload in images so no images this time sry)
+
+**Total time spent: 2hrs**
