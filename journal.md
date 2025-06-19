@@ -166,4 +166,5 @@ So now I am FINALLY DONE!!!!!!!! I added cutouts for the stabilizer's wire (the 
 ![image](https://github.com/user-attachments/assets/0bd593d1-dda5-4ca5-841a-771141ffce1b)
 
 Update: Ahh I forgot I need to write the firmware b4 submitting, ig I'll do that and log.
+
 **Total Time Spent: 1 - 1.5hrs**
