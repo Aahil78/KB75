@@ -145,3 +145,11 @@ EDIT: I forgot to refill the zone, so once I did that there were 2 small GND-GND
 ![image](https://github.com/user-attachments/assets/af3909c1-66ea-42b1-8072-f6a9b8ef377d)
 
 **Total time spent: 4hrs**
+
+# June 19th: Almost done!
+I'm backk! I worked all night in Fusion 360 and I'm almost done with the entire case, the bottom is done, the top is done, just making some finishing touches. And I need to add some cutouts for the stabilizer's bar to go under the plate, but idk how to do that.
+
+![image](https://github.com/user-attachments/assets/a6541be0-0dee-4dd1-98ab-bd3c80af8265)
+![image](https://github.com/user-attachments/assets/42b5062c-6f4f-46d1-8c2b-2b64e5717ae3)
+
+**Total time spent: 6.5-7hrs**
