@@ -153,3 +153,27 @@ I'm backk! I worked all night in Fusion 360 and I'm almost done with the entire 
 ![image](https://github.com/user-attachments/assets/42b5062c-6f4f-46d1-8c2b-2b64e5717ae3)
 
 **Total time spent: 6.5-7hrs**
+
+# June 19th - Log 2: The End............ or is it?
+So now I am FINALLY DONE!!!!!!!! I added cutouts for the stabilizer's wire (the metal rod that connects the two) to go under the plate, I engraved the keyboards name, and O added some fillets in the inner edges, I'm pretty happy with what I've done and I luv this design, I'll add all the files rn and I'll submit this! I'll log my assembly but it's gonna take a long time for the PCBs to arrive unless if I use faster shipping. Bye!
+
+![image](https://github.com/user-attachments/assets/0d11eedc-c795-4700-914d-2e675da158e2)
+![image](https://github.com/user-attachments/assets/4539fa85-9148-473d-ba44-2ff1dc8df259)
+![image](https://github.com/user-attachments/assets/4dd3c24d-2ec1-45c4-b2bb-77330d637a20)
+![image](https://github.com/user-attachments/assets/f29bb0f3-658d-46fa-8736-0d2919f92f2b)
+![image](https://github.com/user-attachments/assets/824b8418-2c7e-403e-aacf-ed3958413d9a)
+![image](https://github.com/user-attachments/assets/efaedb66-ca23-421a-b05d-fbfd730b7eb9)
+![image](https://github.com/user-attachments/assets/0bd593d1-dda5-4ca5-841a-771141ffce1b)
+
+Update: Ahh I forgot I need to write the firmware b4 submitting, ig I'll do that and log.
+
+Update 2: In my first log I said i might use a orpheus pico, but I just remembered that isn't allowed so I'll just use a raspberry pi pico or a clone with type-c
+
+**Total Time Spent: 1 - 1.5hrs**
+
+# June 19th - Log 3: Done with the firmware!
+Finally! I'm done with the firmware!!!!!!! I used QMK bc once I get my keyboard I'll setup KMK via POG, a open-source app made for easy setup for KMK based keyboards, especially RP2040 based ones, it automatically installs KMK, makes the keymaps, allows you to config layers, and more! So I'm done with everything I just need to format the README and add in a BOM. Btw it's my first time using QMK and the docs were too long and over my understanding so I took a little help from copilot, and this time I dont mean "help", I mean just help bc it only wrote the template code and I modified it all like my keymaps, rules.mk, config, etc.
+
+(I don't know what to upload in images so no images this time sry)
+
+**Total time spent: 2hrs**
