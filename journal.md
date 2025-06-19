@@ -5,6 +5,10 @@ description: "A 75% mechanical hotswap keyboard with cool stuff"
 created_at: "2025-06-12"
 ---
 
+**Total Time Spent On Entire Project: 53hrs**
+
+---
+
 # June 12th: The beginning of a new project......
 
 Today I took the first steps of this project, I made the layout in KLE (Haven't tried Ergogen yet) and started with the schematic, most of the time was spent in making the layout so I didn't do much in the schematic, like I was only able to make a few sheets and add in a Pi Pico. I also decided the features and hardware to use.
