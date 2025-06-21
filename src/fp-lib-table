@@ -1,7 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Keebio")(type "KiCad")(uri "${KIPRJMOD}/parts/Keebio/Footprints")(options "")(descr ""))
-  (lib (name "Encoders")(type "KiCad")(uri "${KIPRJMOD}/parts/Encoders")(options "")(descr ""))
-  (lib (name "MX_SK6812MINI-E")(type "KiCad")(uri "D:/KiCad Projects/Keyer/MX_SK6812MINI-E")(options "")(descr ""))
-  (lib (name "Display")(type "KiCad")(uri "D:/KiCad Projects/HackPad v3/parts/Display")(options "")(descr ""))
-)
