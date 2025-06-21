@@ -554,10 +554,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "production/",
+      "plot": "production/gerber/PCB",
       "pos_files": "",
       "specctra_dsn": "KB75_DSN.dsn",
-      "step": "",
+      "step": "3D/KB75.step",
       "svg": "",
       "vrml": ""
     },
