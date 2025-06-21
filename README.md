@@ -15,14 +15,14 @@ This is a 75% mechanical keyboard that has per-key rgb, hotswappable keys, an OL
 # Images:
 
 ## Schematic:
-![image](https://github.com/user-attachments/assets/8f9fbddf-f599-4532-8b07-f3fd0e9e2acc)
+![image](https://github.com/user-attachments/assets/cfd4738b-5b43-49ae-911f-5875bcfafe73)
 ![image](https://github.com/user-attachments/assets/65755e5e-9f7b-4e59-bf23-cc4ad8f4f99c)
 ![image](https://github.com/user-attachments/assets/df5bc66d-f5ec-4af1-a6f9-a0fd519aaadf)
-![image](https://github.com/user-attachments/assets/1e7413e0-e535-4f00-9800-271be43dfc32)
+![image](https://github.com/user-attachments/assets/09fb924f-59c3-478c-83f3-995c3e38d4e7)
 ![image](https://github.com/user-attachments/assets/1c719356-ee8c-4351-86d6-308cb0b51cb2)
 
 ## PCB:
-![image](https://github.com/user-attachments/assets/a401b351-bad8-4a59-9d6a-2a9a9aa4cd20)
+![image](https://github.com/user-attachments/assets/2ff0b96a-4ae4-49fb-b56f-280cb86136e3)
 ![image](https://github.com/user-attachments/assets/5a96142f-f472-45b7-b496-eda47d46aaef)
 
 ## Case and Plate:
@@ -52,3 +52,4 @@ Here's my BOM:
 | MX Switches            | 82       | Multiples of 10| [Switches](https://www.aliexpress.com/item/1005006528632637.html)                                                         |$41.99|
 | EC11 Encoder           | 1        | 5              | [Encoder](https://www.aliexpress.com/item/32976046900.html)                                                               |$3.06 |
 | EC11 Encoder Knob      | 1        | 1              | [Knob](https://www.aliexpress.com/item/1005007576522714.html)                                                             |$1.18 |
+| 74AHCT125              | 1        | 5              | [C148198](https://lcsc.com/product-detail/Buffers-Drivers-Receivers-Transceivers_Nexperia-74AHCT125PW-118_C148198.html)   |$1.12 |
