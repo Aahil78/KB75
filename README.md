@@ -41,7 +41,7 @@ Here's my BOM:
 |------------------------|----------|----------------|---------------------------------------------------------------------------------------------------------------------------|------|
 | 0805 Capacitors 100nf  | 82       | 100            | [C49678](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html) |$0.44 |
 | 0805 Resistors 10K ohm | 2        | 100            | [C84376](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-0710KL_C84376.html)                   |$0.19 |
-| 0805 Diodes            | 83       | Multiples of 50 | [C82544](https://lcsc.com/product-detail/Schottky-Diodes_Diodes-Incorporated-1N5819HW-7-F_C82544.html)                        |$16.39|
+| 0805 Diodes            | 83       | Multiples of 50 | [C82544](https://lcsc.com/product-detail/Schottky-Diodes_Diodes-Incorporated-1N5819HW-7-F_C82544.html)                        |$2.7|
 | Kailh MX Sockets       | 82       | Multiples of 10, 30, 70, or 110 | [CPG151101S11](https://www.aliexpress.com/item/1005007476614771.html)                                    |$9.15 |
 | Raspberry Pi Pico      | 1        | 1              | [C7203003](https://lcsc.com/product-detail/Raspberry-Pi_Raspberry-Pi-PICO-W_C7203003.html)                                |$10.54|
 | SK6812MINI-E           | 82       | Multiples of 5 | [C5149201](https://www.lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html)     |$5.02 |
