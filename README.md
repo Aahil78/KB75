@@ -3,9 +3,6 @@ This is a 75% mechanical keyboard that has per-key rgb, hotswappable keys, an OL
 
 I decided to make this because I loveee mechanical keyboards but the one I was using broke :( keyboards are expensive here and a 60% felt like it had less keys for programming like no arrow keys no function row etc. so I decided to make this 75% and also learn how keyboards work!
 
-### Hackatime Project Name:
-For some reason hackatime didn't work for like 80% of the project and I forgot to install Fusion 360 wakatime but the project name should be KB75
-
 ## Features:
 - Open Source
 - Hotswappable
@@ -31,10 +28,14 @@ For some reason hackatime didn't work for like 80% of the project and I forgot t
 ![image](https://github.com/user-attachments/assets/5a96142f-f472-45b7-b496-eda47d46aaef)
 
 ## Case and Plate:
-![image](https://github.com/user-attachments/assets/f8777c07-0f29-49c0-ac6b-cd7815fed17c)
+<img width="740" height="457" alt="image" src="https://github.com/user-attachments/assets/8bab08a4-6933-4d09-a02b-3946d412c79c" />
+
 ![image](https://github.com/user-attachments/assets/33a885f4-abac-4eb6-9522-66822cb0bcca)
-![image](https://github.com/user-attachments/assets/b522e70e-c108-41a9-8228-edf0e8de5088)
-![image](https://github.com/user-attachments/assets/864dc1ef-8118-4bdb-a05b-5af3d1dc271e)
+
+<img width="835" height="483" alt="image" src="https://github.com/user-attachments/assets/9e4e7016-09ee-47bc-bc58-b8b960e35dc4" />
+<img width="812" height="398" alt="image" src="https://github.com/user-attachments/assets/996ba2c3-d25e-43e3-a705-7830139288b1" />
+<img width="806" height="438" alt="image" src="https://github.com/user-attachments/assets/b40b3322-a511-43e3-be50-897f300d3f81" />
+
 ![image](https://github.com/user-attachments/assets/dd6a3568-84c5-4c85-8ecf-e7fdb112501c)
 ![image](https://github.com/user-attachments/assets/979b6574-06b5-48f7-a6d6-333a6c9c4e90)
 
