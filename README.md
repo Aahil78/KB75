@@ -1,7 +1,7 @@
 # KB75 -- A open-source 75% Keyboard
 This is a 75% mechanical keyboard that has per-key rgb, hotswappable keys, an OLED, and a rotary encoder. It's based on the Raspberry Pi Pico so it supports QMK and KMK.
 
-I decided to make this because I loveee mechanical keyboards but the one I was using broke :( keyboards are expensive here and a 60% felt like it had less keys for programming like no arrow keys no function row etc. so I decided to make this 75% and also learn how keyboards work!
+I decided to make this because I love mechanical keyboards but the one I was using broke. And keebs over here just don't got much variety or they are low quality, so I decided to make my own.
 
 ## Features:
 - Open Source
