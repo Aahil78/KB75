@@ -59,3 +59,5 @@ Here's my BOM:
 | EC11 Encoder           | 1        | 5              | [Encoder](https://www.aliexpress.com/item/32976046900.html)                                                               |$3.06 |
 | EC11 Encoder Knob      | 1        | 1              | [Knob](https://www.aliexpress.com/item/1005007576522714.html)                                                             |$1.18 |
 | 74AHCT125              | 1        | 5              | [C148198](https://lcsc.com/product-detail/Buffers-Drivers-Receivers-Transceivers_Nexperia-74AHCT125PW-118_C148198.html)   |$1.12 | 
+
+The total cost will be a bit over $120 including PCB, shipping, and filament.
